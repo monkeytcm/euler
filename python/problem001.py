@@ -1,1 +1,1 @@
-beans = 3
+beans = 4
